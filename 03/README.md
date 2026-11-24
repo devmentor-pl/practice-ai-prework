@@ -2,7 +2,9 @@
 
 &nbsp;
 
-# `#03` Import faktur z katalogu
+# `#03` AI Engineer: Prework
+
+## Import faktur z katalogu
 
 Księgowość wrzuca faktury do katalogu `data/`: część jako osobne pliki JSON (jedna faktura w pliku), część jako zbiorczy plik CSV. Niektóre pliki są uszkodzone. Twoim zadaniem jest wczytać wszystkie poprawne faktury i przygotować raport.
 

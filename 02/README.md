@@ -2,7 +2,9 @@
 
 &nbsp;
 
-# `#02` Parser kwot z faktur
+# `#02` AI Engineer: Prework
+
+## Parser kwot z faktur
 
 Kwoty z faktur trafiają do systemu jako tekst wpisany przez ludzi, więc mają różny format. Twoim zadaniem jest napisać parser, który przyjmuje poprawne kwoty i odrzuca resztę, oraz przetestować go w pytest.
 

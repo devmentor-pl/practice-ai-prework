@@ -2,7 +2,9 @@
 
 &nbsp;
 
-# `#05` Odporny pipeline klasyfikacji dokumentów
+# `#05` AI Engineer: Prework
+
+## Odporny pipeline klasyfikacji dokumentów
 
 Zewnętrzne API klasyfikujące dokumenty bywa niedostępne. Twoim zadaniem jest przetworzyć wszystkie dokumenty z `docs.txt` partiami, równolegle w obrębie partii, z ponawianiem nieudanych prób.
 
